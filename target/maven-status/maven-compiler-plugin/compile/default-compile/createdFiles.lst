@@ -1,0 +1,12 @@
+com/hkj365/oamanage/pojo/User.class
+com/hkj365/oamanage/service/IUserService.class
+com/hkj365/oamanage/config/LoggingConfig.class
+com/hkj365/oamanage/service/impl/UserServiceImpl.class
+com/hkj365/oamanage/config/OAManageWebAppInitializer.class
+com/hkj365/oamanage/service/impl/WechatAccessServiceImpl.class
+com/hkj365/oamanage/config/WebConfig.class
+com/hkj365/oamanage/controller/UserController.class
+com/hkj365/oamanage/controller/WechatAccessController.class
+com/hkj365/oamanage/dao/IUserDao.class
+com/hkj365/oamanage/config/RootConfig.class
+com/hkj365/oamanage/service/IWechatAccessService.class

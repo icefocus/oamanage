@@ -1,0 +1,12 @@
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/config/WebConfig.java
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/config/LoggingConfig.java
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/controller/UserController.java
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/controller/WechatAccessController.java
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/service/IWechatAccessService.java
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/dao/IUserDao.java
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/service/impl/UserServiceImpl.java
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/service/IUserService.java
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/pojo/User.java
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/config/OAManageWebAppInitializer.java
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/service/impl/WechatAccessServiceImpl.java
+/Users/Randy/Documents/project/oamanage/src/main/java/com/hkj365/oamanage/config/RootConfig.java

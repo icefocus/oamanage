@@ -1,0 +1,77 @@
+INFO : com.hkj365.oamanage.config.OAManageWebAppInitializer - config the getRootConfig
+INFO : com.hkj365.oamanage.config.OAManageWebAppInitializer - config the getConfigClasses
+INFO : org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Tue Oct 18 16:18:54 CST 2016]; root of context hierarchy
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Registering annotated classes: [class com.hkj365.oamanage.config.RootConfig]
+INFO : org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [log4j.xml]
+INFO : com.hkj365.oamanage.config.RootConfig - config the placeholderConfigurer.
+INFO : org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO : com.hkj365.oamanage.config.RootConfig - config the sqlSessionFactory
+INFO : com.hkj365.oamanage.config.RootConfig - config the dataSource
+INFO : com.hkj365.oamanage.config.RootConfig - leaving the dataSource config.
+INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user/showUser],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.hkj365.oamanage.controller.UserController.toIndex(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[//verify],methods=[GET],params=[],headers=[],consumes=[],produces=[text/plain],custom=[]}" onto public java.lang.String com.hkj365.oamanage.controller.WechatAccessController.VerifyToken(javax.servlet.http.HttpServletRequest)
+INFO : com.hkj365.oamanage.config.WebConfig - config addResourceHandlers
+INFO : com.hkj365.oamanage.config.WebConfig - config the configureDefaultServletHandling.
+INFO : org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler]
+INFO : com.hkj365.oamanage.config.WebConfig - config the viwResolver.
+INFO : com.hkj365.oamanage.config.WebConfig - config the commonMUltipartResolver
+INFO : com.hkj365.oamanage.config.RootConfig - config the platformTransactionManager
+INFO : org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2832 ms
+INFO : org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcher': initialization started
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Tue Oct 18 16:18:56 CST 2016]; parent: Root WebApplicationContext
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Registering annotated classes: [class com.hkj365.oamanage.config.WebConfig]
+INFO : org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user/showUser],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.hkj365.oamanage.controller.UserController.toIndex(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[//verify],methods=[GET],params=[],headers=[],consumes=[],produces=[text/plain],custom=[]}" onto public java.lang.String com.hkj365.oamanage.controller.WechatAccessController.VerifyToken(javax.servlet.http.HttpServletRequest)
+INFO : com.hkj365.oamanage.config.WebConfig - config addResourceHandlers
+INFO : com.hkj365.oamanage.config.WebConfig - config the configureDefaultServletHandling.
+INFO : org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler]
+INFO : com.hkj365.oamanage.config.WebConfig - config the commonMUltipartResolver
+INFO : com.hkj365.oamanage.config.WebConfig - config the viwResolver.
+INFO : org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcher': initialization completed in 90 ms
+WARN : com.hkj365.oamanage.controller.UserController - Entry the UserController.
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Tue Oct 18 16:18:56 CST 2016]; parent: Root WebApplicationContext
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Closing Root WebApplicationContext: startup date [Tue Oct 18 16:18:54 CST 2016]; root of context hierarchy
+INFO : com.hkj365.oamanage.config.OAManageWebAppInitializer - config the getRootConfig
+INFO : com.hkj365.oamanage.config.OAManageWebAppInitializer - config the getConfigClasses
+INFO : com.hkj365.oamanage.config.OAManageWebAppInitializer - config the getRootConfig
+INFO : com.hkj365.oamanage.config.OAManageWebAppInitializer - config the getConfigClasses
+INFO : com.hkj365.oamanage.config.OAManageWebAppInitializer - config the getRootConfig
+INFO : com.hkj365.oamanage.config.OAManageWebAppInitializer - config the getConfigClasses
+INFO : org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization started
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Tue Oct 18 16:25:28 CST 2016]; root of context hierarchy
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Registering annotated classes: [class com.hkj365.oamanage.config.RootConfig]
+INFO : org.springframework.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [log4j.xml]
+INFO : com.hkj365.oamanage.config.RootConfig - config the placeholderConfigurer.
+INFO : org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO : com.hkj365.oamanage.config.RootConfig - config the sqlSessionFactory
+INFO : com.hkj365.oamanage.config.RootConfig - config the dataSource
+INFO : com.hkj365.oamanage.config.RootConfig - leaving the dataSource config.
+INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user/showUser],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.hkj365.oamanage.controller.UserController.toIndex(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[//verify],methods=[GET],params=[],headers=[],consumes=[],produces=[text/plain],custom=[]}" onto public java.lang.String com.hkj365.oamanage.controller.WechatAccessController.VerifyToken(javax.servlet.http.HttpServletRequest)
+INFO : com.hkj365.oamanage.config.WebConfig - config addResourceHandlers
+INFO : com.hkj365.oamanage.config.WebConfig - config the configureDefaultServletHandling.
+INFO : org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler]
+INFO : com.hkj365.oamanage.config.WebConfig - config the viwResolver.
+INFO : com.hkj365.oamanage.config.WebConfig - config the commonMUltipartResolver
+INFO : com.hkj365.oamanage.config.RootConfig - config the platformTransactionManager
+INFO : org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3011 ms
+INFO : org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcher': initialization started
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Tue Oct 18 16:25:31 CST 2016]; parent: Root WebApplicationContext
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Registering annotated classes: [class com.hkj365.oamanage.config.WebConfig]
+INFO : org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[/user/showUser],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.hkj365.oamanage.controller.UserController.toIndex(javax.servlet.http.HttpServletRequest,org.springframework.ui.Model)
+INFO : org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - Mapped "{[//verify],methods=[GET],params=[],headers=[],consumes=[],produces=[text/plain],custom=[]}" onto public java.lang.String com.hkj365.oamanage.controller.WechatAccessController.VerifyToken(javax.servlet.http.HttpServletRequest)
+INFO : com.hkj365.oamanage.config.WebConfig - config addResourceHandlers
+INFO : com.hkj365.oamanage.config.WebConfig - config the configureDefaultServletHandling.
+INFO : org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler]
+INFO : com.hkj365.oamanage.config.WebConfig - config the viwResolver.
+INFO : com.hkj365.oamanage.config.WebConfig - config the commonMUltipartResolver
+INFO : org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcher': initialization completed in 119 ms
+WARN : com.hkj365.oamanage.controller.UserController - Entry the UserController.
+WARN : com.hkj365.oamanage.controller.UserController - Entry the UserController.
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Tue Oct 18 16:25:31 CST 2016]; parent: Root WebApplicationContext
+INFO : org.springframework.web.context.support.AnnotationConfigWebApplicationContext - Closing Root WebApplicationContext: startup date [Tue Oct 18 16:25:28 CST 2016]; root of context hierarchy
+INFO : com.hkj365.oamanage.config.OAManageWebAppInitializer - config the getRootConfig
+INFO : com.hkj365.oamanage.config.OAManageWebAppInitializer - config the getConfigClasses
